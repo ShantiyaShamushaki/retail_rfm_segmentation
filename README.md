@@ -158,9 +158,8 @@ Each notebook execution will produce:
 ---
 
 ### **6. Project Output Summary**
-| Output Type | Example File | Description |
-|--------------|---------------|--------------|
-| Summary CSV | `result/tables/cluster_summary.csv` | Mean RFM per cluster |
-| Cluster Plot | `result/plots/cluster_scatter.png` | Segmentation visualization |
-| Stats Plot | `result/plots/sales_distribution.png` | Overall sale frequency and distribution |
+[sales distribution](assets/sales_distribution.png)
+[best and worst days](assets/best_worst_days.png)
+[k evaluation](assets/k_evaluation.png)
+[cluster map](assets/cluster_map.png)
 
