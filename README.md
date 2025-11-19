@@ -10,7 +10,7 @@ Goal: produce meaningful behavioral clusters using K‑Means and interpret patte
 retail_rfm_segmentation/
 │
 ├── data/
-│   └── online_retail_II.csv
+│   └── online_retail_II.csv # https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 │
 ├── notebooks/
 │   └── setup.ipynb                    # Core project runbook (EDA + RFM Modeling)
