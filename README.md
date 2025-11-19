@@ -158,8 +158,8 @@ Each notebook execution will produce:
 ---
 
 ### **6. Project Output Summary**
-[sales distribution](assets/sales_distribution.png)
-[best and worst days](assets/best_worst_days.png)
-[k evaluation](assets/k_evaluation.png)
-[cluster map](assets/cluster_map.png)
+![sales distribution](assets/sales_distribution.png)
+![best and worst days](assets/best_worst_days.png)
+![k evaluation](assets/k_evaluation.png)
+![cluster map](assets/cluster_map.png)
 
