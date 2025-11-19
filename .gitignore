@@ -1,0 +1,23 @@
+# Python virtual environments
+env/
+venv/
+ENV/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Result files
+result/
+*.png
+*.csv
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
