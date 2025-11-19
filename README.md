@@ -21,9 +21,8 @@ retail_rfm_segmentation/
 │   └── report_result.py               # Export plots and CSV summaries
 │
 ├── result/
-│   ├── plots/                         # Visual results (PNG)
-│   ├── tables/                        # Segmentation CSV summaries
-│   └── analytics/                     # Optional aggregate charts
+│   ├── plots                        # Visual results (PNG)
+│   ├── tables                        # Segmentation CSV summaries
 │
 └── README.md
 ```
